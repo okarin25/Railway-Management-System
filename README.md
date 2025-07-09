@@ -1,4 +1,4 @@
-# 🚆 Railway Management System (Customized)
+# 🚆 Railway Management System 
 
 This is a PostgreSQL-based schema for a railway ticketing and booking system, designed with enhancements on top of the original project.
 
